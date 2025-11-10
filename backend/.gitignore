@@ -1,0 +1,15 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build
+dist/
+
+# Local caches
+.npm-cache/
+
+# Editor
+.idea/
+.vscode/
+
+
